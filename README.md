@@ -30,3 +30,7 @@
  7. Com status 'Validated', finalize o processo clicando em 'Ready to share'.
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/final.png" />
+ 
+  8. Do lado direito em 'edit' é possível editar os campos do produto. Acesse o produto no catálogo em 'View catalog entry'.
+
+ <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/final2.png" />
