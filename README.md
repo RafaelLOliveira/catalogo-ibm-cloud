@@ -23,6 +23,6 @@
 
     OBS: Na etapa de Configure Version, inclua a variável 'ibmcloud_api_key'.
 
-    OBS 2: Na etapa Validate Version, coloque sua chave de API e desabilite o Secret Manager e clique em Validate.
+    OBS 2: Na etapa Validate Version, coloque sua chave de API, desabilite o Secret Manager e clique em Validate.
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/version-list.png" />
