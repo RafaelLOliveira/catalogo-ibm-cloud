@@ -3,6 +3,7 @@
  Esse é um exemplo de como adicionar uma VPC provisionada pelo IBM Cloud Schematics no catálogo privado da IBM Cloud. Para isso, é necessário criar uma release
 
  ### Passo a passo:
+
  1. Faça um fork desse repositório para sua conta no Github.
  2. Na página do seu repositório no Github, crie uma release.
 
@@ -17,7 +18,7 @@
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/catalogo-privado.png"/>
 
- <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/add-product.png" width="500"/>
+ <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/add-product.png" width="400"/>
 
  6. Em Versions List, clique na versão criada e siga o passo a passo indicado.
 
@@ -37,4 +38,4 @@
 
   9. Página do produto no catálogo:
 
-  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/catalogo-final.png" />
+  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/catalogo-final.png" width="500"/>
