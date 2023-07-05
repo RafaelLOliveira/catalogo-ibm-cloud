@@ -21,8 +21,12 @@
 
  6. Em Versions List, clique na versão criada e siga o passo a passo indicado.
 
-    OBS: Na etapa de Configure Version, inclua a variável 'ibmcloud_api_key'.
+    OBS: Na etapa de Configure Version, inclua a variável 'ibmcloud_api_key'. Opcionalmente inclua as outras variáveis.
 
     OBS 2: Na etapa Validate Version, coloque sua chave de API, desabilite o Secret Manager e clique em Validate.
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/version-list.png" />
+
+ 7. Com status 'Validated', finalize o processo clicando em 'Ready to share'.
+
+ <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/final.png" />
