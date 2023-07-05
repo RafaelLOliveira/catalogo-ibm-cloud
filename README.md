@@ -1,6 +1,6 @@
 # Tutorial de uso do Catálogo Privado na IBM Cloud.
 
- Esse é um exemplo de como adicionar uma VPC provisionada pelo IBM Cloud Schematics no catálogo privado da IBM Cloud. Para isso, é necessário criar uma release
+ Esse é um exemplo de como adicionar uma VPC provisionada pelo IBM Cloud Schematics(Terraform) no catálogo privado da IBM Cloud.
 
  ### Passo a passo:
 
