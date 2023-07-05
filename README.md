@@ -8,7 +8,7 @@
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/release1.png" width="200"/>
 
- 3. Crie uma tag e preencha os campos restantes
+ 3. Crie uma tag, preencha os campos restantes e clique em 'Publish release'.
 
  ![imagem 2](https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/release2.png)
 
@@ -30,3 +30,7 @@
  7. Com status 'Validated', finalize o processo clicando em 'Ready to share'.
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/final.png" />
+ 
+  8. Do lado direito em 'edit' é possível editar os campos do produto. Acesse o produto no catálogo em 'View catalog entry'.
+
+ <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/final2.png" />
