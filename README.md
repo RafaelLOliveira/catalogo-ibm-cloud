@@ -8,7 +8,7 @@
 
  <img src="https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/release1.png" width="200"/>
 
- 3. Crie uma tag e preencha os campos restantes
+ 3. Crie uma tag, preencha os campos restantes e clique em 'Publish release'.
 
  ![imagem 2](https://github.com/RafaelLOliveira/catalogo-ibm-cloud/blob/main/imagens/release2.png)
 
